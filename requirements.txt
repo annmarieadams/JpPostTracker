@@ -1,0 +1,4 @@
+ezgmail
+requests
+bs4
+shelve
